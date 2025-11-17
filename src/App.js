@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          veremos si funciona
+          veremos si funciona el pull request
         </a>
       </header>
     </div>
